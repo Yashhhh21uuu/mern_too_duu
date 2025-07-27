@@ -1,16 +1,16 @@
 # Too-Duu: A MERN Stack To-Do App
 
-## Introduction
+## Introduction:
 
 Too-Duu is a basic To-Do application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This app allows users to perform CRUD (Create, Read, Update, Delete) operations on their to-do items.
 
-## Project Structure
+## Project Structure:
 
-### Client
+### Client:
 - public/: Contains the static files.
 - src/: Contains the React components and other frontend logic.
 - package.json: Lists the frontend dependencies and scripts.
-### Server
+### Server:
 - build/: Contains the built files.
 - node_modules/: Contains the backend dependencies.
 - .env: Contains environment variables.
@@ -19,17 +19,17 @@ Too-Duu is a basic To-Do application built using the MERN stack (MongoDB, Expres
 - routes.js: Contains the API route definitions.
 - package.json: Lists the backend dependencies and scripts.
 
-## Prerequisites
+## Prerequisites:
 - Node.js (v12.x or higher)
 - npm (v6.x or higher)
 - MongoDB (running instance)
 
-## Configuration
+## Configuration:
 Server
 - Create a .env file in the server directory.
 - Add your MongoDB URI and other environment variables
 
-## Usage
+## Usage:
 - Create a To-Do: Fill out the form and submit to create a new to-do item.
 - Read To-Dos: View the list of to-do items.
 - Update a To-Do: Click on an item to edit and save changes.
